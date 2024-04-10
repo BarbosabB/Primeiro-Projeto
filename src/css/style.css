@@ -6,7 +6,7 @@
 
 :root {
     --text-color: white;
-    --bg-url: url(../imagens/bg-mobile.jpg);
+    --bg-url: url(/src/imagens/bg-mobile.jpg);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.05);
     --surface-coolor-hover: rgba(0, 0, 0, 0.02);
@@ -16,7 +16,7 @@
 
 .light{
   --text-color: black;
-  --bg-url: url(../imagens/bg-mobile-white.jpg);
+  --bg-url: url(/src/imagens/bg-mobile-white.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-coolor-hover: rgba(0, 0, 0, 0.02);
